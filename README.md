@@ -8,7 +8,7 @@ Drawn from [Feral Chicken's](https://feralchicken.wordpress.com/2013/12/07/boost
 Go into the build dir and run
 
 ```
-make ..
+cmake ..
 make
 ```
 
