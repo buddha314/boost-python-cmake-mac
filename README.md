@@ -1,7 +1,7 @@
 # boost-python-cmake-mac
 Yep, use boost python under CMake on a Mac.
 
-Drawn from [Feral Chicken's]((https://feralchicken.wordpress.com/2013/12/07/boost-python-hello-world-example-using-cmake/) post and updated after numerous hours on StackOverflow.
+Drawn from [Feral Chicken's](https://feralchicken.wordpress.com/2013/12/07/boost-python-hello-world-example-using-cmake/) post and updated after numerous hours on StackOverflow.
 
 ### Build & Run
 
